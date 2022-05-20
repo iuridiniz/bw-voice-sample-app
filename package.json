@@ -1,0 +1,17 @@
+{
+  "name": "programmable-voice-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "marcelo.hossomi@encora.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "cli-highlight": "^2.1.11",
+    "express": "^4.18.1"
+  }
+}
